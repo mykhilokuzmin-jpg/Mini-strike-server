@@ -1,0 +1,1 @@
+{"name":"mini-strike-v7-server","version":"1.0.0","private":true,"scripts":{"start":"node index.js"},"dependencies":{"ws":"^8.18.3"},"engines":{"node":">=20"}}
